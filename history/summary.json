@@ -13,7 +13,7 @@
     "time": 920,
     "timeDay": 399,
     "timeWeek": 720,
-    "timeMonth": 920,
+    "timeMonth": 916,
     "timeYear": 920,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1074,
     "timeDay": 1184,
     "timeWeek": 965,
-    "timeMonth": 1074,
+    "timeMonth": 1059,
     "timeYear": 1074,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 210,
     "timeDay": 79,
     "timeWeek": 173,
-    "timeMonth": 210,
+    "timeMonth": 208,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 157,
     "timeDay": 123,
     "timeWeek": 112,
-    "timeMonth": 157,
+    "timeMonth": 158,
     "timeYear": 157,
     "dailyMinutesDown": {}
   },
@@ -76,17 +76,19 @@
     "url": "https://github.com/BA-BlockchainAnalysis/scribe-verify",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "open-source-verifier",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 698,
     "timeDay": 745,
     "timeWeek": 657,
-    "timeMonth": 698,
+    "timeMonth": 697,
     "timeYear": 698,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-12": 0
+    }
   }
 ]
