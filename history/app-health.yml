@@ -1,7 +1,7 @@
 url: https://bascribe.com/api/health
-status: down
-code: 402
-responseTime: 109
-lastUpdated: 2026-11-02T02:18:09.283Z
+status: up
+code: 200
+responseTime: 2734
+lastUpdated: 2026-11-02T12:57:10.464Z
 startTime: 2026-07-12T10:19:18.875Z
 generator: Upptime <https://github.com/upptime/upptime>
